@@ -36,6 +36,7 @@ The application retrieves relevant information from an internal knowledge base u
 
 ## ▶️ How to Run
 ```bash
+pip install -r requirements.txt
 streamlit run app.py
 ```
 ## 📚 Sample Knowledge Base
