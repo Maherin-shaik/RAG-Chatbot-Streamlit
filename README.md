@@ -1,4 +1,6 @@
 # 🤖 RAG Chatbot using Transformers & Streamlit
+ **Live Demo**
+https://rag-chatbot-app-vrp43beo3ghh6jxonp9e83.streamlit.app
 
 ## 📌 Project Overview
 This project is a **Retrieval-Augmented Generation (RAG) chatbot** built during my **Data Science training**.
